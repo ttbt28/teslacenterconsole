@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/teslacenterconsole/static/css/main.073c9b0a.css",
+    "main.js": "/teslacenterconsole/static/js/main.c947edb2.js",
+    "static/js/787.4e188648.chunk.js": "/teslacenterconsole/static/js/787.4e188648.chunk.js",
+    "static/media/logo.svg": "/teslacenterconsole/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/teslacenterconsole/index.html",
+    "main.073c9b0a.css.map": "/teslacenterconsole/static/css/main.073c9b0a.css.map",
+    "main.c947edb2.js.map": "/teslacenterconsole/static/js/main.c947edb2.js.map",
+    "787.4e188648.chunk.js.map": "/teslacenterconsole/static/js/787.4e188648.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.c947edb2.js"
+  ]
+}
