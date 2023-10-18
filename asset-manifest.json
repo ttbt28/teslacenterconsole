@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/teslacenterconsole/static/js/main.b4a09caf.js",
+    "main.js": "/teslacenterconsole/static/js/main.d8b349be.js",
     "index.html": "/teslacenterconsole/index.html",
-    "main.b4a09caf.js.map": "/teslacenterconsole/static/js/main.b4a09caf.js.map"
+    "main.d8b349be.js.map": "/teslacenterconsole/static/js/main.d8b349be.js.map"
   },
   "entrypoints": [
-    "static/js/main.b4a09caf.js"
+    "static/js/main.d8b349be.js"
   ]
 }
