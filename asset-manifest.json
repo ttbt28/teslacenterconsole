@@ -1,11 +1,11 @@
 {
   "files": {
-    "main.js": "/teslacenterconsole/static/js/main.37733728.js",
+    "main.js": "/teslacenterconsole/static/js/main.525f0e6c.js",
     "static/media/t3.webp": "/teslacenterconsole/static/media/t3.c14dde85152a793c548e.webp",
     "index.html": "/teslacenterconsole/index.html",
-    "main.37733728.js.map": "/teslacenterconsole/static/js/main.37733728.js.map"
+    "main.525f0e6c.js.map": "/teslacenterconsole/static/js/main.525f0e6c.js.map"
   },
   "entrypoints": [
-    "static/js/main.37733728.js"
+    "static/js/main.525f0e6c.js"
   ]
 }
